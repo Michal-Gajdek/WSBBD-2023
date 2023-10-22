@@ -6,3 +6,5 @@ Hello World! - jestem na branchu DEV :o
 Mam na imię Michał.
 
 WSB BD 2023 - workshop. New line of code. Another line of code.
+
+A jednak na branchu DEV-kopia przed pull requestem!
